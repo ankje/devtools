@@ -1,0 +1,5 @@
+- 官网
+http://www.mybatis.org/generator/running/runningWithJava.html
+http://www.mybatis.org/generator/configreference/xmlconfig.html
+
+- 默认配置为生成的文件放在根目录的/build/mybatis_generator里
