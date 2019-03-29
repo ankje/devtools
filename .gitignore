@@ -1,0 +1,4 @@
+/.idea
+/mybatis_generator/target
+/target
+/build/mybatis_generator/*
